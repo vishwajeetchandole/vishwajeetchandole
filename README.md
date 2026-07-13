@@ -1,85 +1,64 @@
-<!-- =========================
-        HERO SECTION
-========================== -->
+<!-- ========================================= -->
+<!--                 HEADER                     -->
+<!-- ========================================= -->
 
 <h1 align="center">
-  Hi 👋 I'm <span style="color:#00BFFF;">Vishwajeet Chandole</span>
+Hi 👋 I'm Vishwajeet Chandole
 </h1>
 
 <h3 align="center">
-AI & Full Stack Developer • Building Intelligent Products • Open Source Learner
+Full Stack Developer • AI & ML Enthusiast • Building Real-World Projects
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&center=true&vCenter=true&width=700&lines=AI+%26+ML+Developer;Full+Stack+Web+Developer;React+%7C+Python+%7C+Flask;Building+Projects+That+Solve+Problems;Always+Learning+Something+New+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;React+%7C+Python+%7C+Flask;Always+Building+Something+Interesting" />
 </p>
 
 ---
 
-# 💫 About Me
+# 👨‍💻 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-🎓 B.Tech Computer Science (AI & ML)
-
-💻 Passionate about Full Stack Development & Artificial Intelligence
-
-🚀 Building impactful projects using AI
-
-🌱 Currently learning
-
-- Advanced React
-- Backend Development
-- System Design
-- DSA for Placements
-
-💡 Interested in
-
-- Artificial Intelligence
-- Machine Learning
-- Web Applications
-- SaaS Products
-- Open Source
-
-⚡ Fun Fact
-
-> I enjoy turning ideas into real products.
+- 🎓 B.Tech Computer Science (Artificial Intelligence & Machine Learning)
+- 💻 Passionate about Full Stack Development and Artificial Intelligence
+- 🚀 Love building practical software projects
+- 🤝 Open to collaborations and open-source contributions
+- 📫 Reach me via **LinkedIn** or **Email**
 
 ---
 
 # 🚀 Tech Stack
 
-## Programming Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp"/>
 </p>
 
-## Frontend
+### Frontend
 
 <p>
 <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite"/>
 </p>
 
-## Backend
+### Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flask,nodejs,express"/>
 </p>
 
-## Database
+### Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql"/>
 </p>
 
-## AI / ML
+### AI / ML
 
 <p>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv"/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
 </p>
 
-## Tools
+### Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
@@ -87,61 +66,46 @@ AI & Full Stack Developer • Building Intelligent Products • Open Source Lear
 
 ---
 
-# 📌 Featured Projects
+# 🌟 Featured Projects
 
-## 🅿️ ParkSync
+### 🚗 ParkSync
+Smart Parking Management System
 
-🚗 Intelligent Parking Management System
-
-**Tech**
-
+**Tech Stack**
 React • Flask • PostgreSQL • OpenCV • OCR
 
-✔ Vehicle Detection
-
-✔ Automatic Billing
-
-✔ Dashboard Analytics
+- Vehicle Detection
+- Automated Parking Management
+- Billing System
+- Analytics Dashboard
 
 ---
 
-## 🫁 Clario
-
+### 🫁 Clario
 AI Powered Lung Disease Detection
 
-**Tech**
+**Tech Stack**
+React • Flask • Python • Kaggle Dataset
 
-React • Python • Flask • Kaggle Dataset
-
-✔ Chest X-Ray Analysis
-
-✔ AI Predictions
-
-✔ Modern Dashboard
+- Chest X-Ray Analysis
+- AI Disease Prediction
+- Modern Web Interface
 
 ---
 
-## 🧠 BrainVault AI
+### 🤖 FlowML
+Visual Machine Learning Pipeline Builder
 
-Personal AI Knowledge OS
+**Tech Stack**
+React • Python • Machine Learning
 
-> Save screenshots, PDFs, notes, voice recordings and search everything using AI.
-
-**Currently Building 🚧**
-
----
-
-## 🤖 FlowML
-
-Visual Machine Learning Builder
-
-Drag & Drop Machine Learning Pipelines
-
-AutoML + No-Code Interface
+- Drag & Drop Pipeline Builder
+- AutoML Workflow
+- Interactive Dashboard
 
 ---
 
-# 📈 GitHub Analytics
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -151,15 +115,19 @@ AutoML + No-Code Interface
 
 </p>
 
+---
+
+# 🔥 GitHub Streak
+
 <p align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetChandole&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=VishwajeetChandole&theme=tokyonight&hide_border=true"/>
 
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Graph
 
 <p align="center">
 
@@ -173,36 +141,9 @@ AutoML + No-Code Interface
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VishwajeetChandole&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+<img src="https://github-profile-trophy.vercel.app/?username=VishwajeetChandole&theme=tokyonight&row=1&column=6&no-frame=true"/>
 
 </p>
-
----
-
-# 🌱 Currently Learning
-
-✔ Data Structures & Algorithms
-
-✔ Backend Engineering
-
-✔ Machine Learning
-
-✔ React Ecosystem
-
-✔ AI Product Development
-
-✔ System Design
-
----
-
-# 🎯 2026 Goals
-
-- 🚀 Crack On-Campus Placement
-- 🌟 1000+ GitHub Contributions
-- 📚 Master DSA
-- 🤝 Contribute to Open Source
-- 🧠 Build BrainVault AI
-- 🌍 Launch a SaaS Product
 
 ---
 
@@ -214,7 +155,7 @@ AutoML + No-Code Interface
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOURMAIL@gmail.com">
+<a href="mailto:yourmail@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
@@ -226,12 +167,6 @@ AutoML + No-Code Interface
 
 ---
 
-# 💭 Quote
-
-> **"The best way to predict the future is to build it."**
-
----
-
 <p align="center">
 
 <img src="https://komarev.com/ghpvc/?username=VishwajeetChandole&style=for-the-badge&color=blue"/>
@@ -239,9 +174,5 @@ AutoML + No-Code Interface
 </p>
 
 <p align="center">
-
 ⭐ Thanks for visiting my profile!
-
-Let's build something amazing together 🚀
-
 </p>
