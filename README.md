@@ -1,136 +1,152 @@
-<!-- ========================================================= -->
-<!--                           HEADER                           -->
-<!-- ========================================================= -->
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Vishwajeet Chandole</h1>
+<br>
 
-<h3 align="center">
-Full Stack Developer • AI & Machine Learning Enthusiast
-</h3>
+# VISHWAJEET CHANDOLE
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&center=true&vCenter=true&random=false&width=700&lines=Building+Real-World+Projects;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;React+%7C+Python+%7C+Flask" alt="Typing SVG" />
-</p>
+<sub>FULL STACK DEVELOPER &nbsp;·&nbsp; AI / ML ENTHUSIAST</sub>
 
-<p align="center">
-  <a href="https://github.com/VishwajeetChandole">
-    <img src="https://img.shields.io/github/followers/VishwajeetChandole?logo=github&style=for-the-badge" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=VishwajeetChandole&style=for-the-badge&color=0e75b6" />
-</p>
+<br>
+<br>
 
----
+<img src="https://img.shields.io/badge/-000000?style=flat-square" height="2" width="120"/>
 
-## 👨‍💻 About Me
+<br>
 
-- 🎓 B.Tech Student in Computer Science (AI & Machine Learning)
-- 💻 Passionate about Full Stack Development and Artificial Intelligence
-- 🚀 Building practical software projects
-- 🤝 Interested in Open Source and collaborative development
+I build practical, real-world software — from AI-assisted tools to full stack products.
+Currently sharpening core CS fundamentals and shipping projects that solve actual problems.
+
+<br>
+
+[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VishwajeetChandole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/YOUR-LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:YOUR_EMAIL@gmail.com)
+
+</div>
+
+<br>
 
 ---
 
-## ⚡ Tech Stack
+<br>
 
-### Languages
+### `01` &nbsp; ABOUT
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,cpp" />
-</p>
+<br>
 
-### Frontend
+B.Tech student in Computer Science, specializing in AI & Machine Learning.
+Focused on full stack development and applied AI — building things that work end-to-end,
+not just proof-of-concepts. Open to collaborative and open-source work.
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,vite" />
-</p>
-
-### Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flask,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
-</p>
+<br>
 
 ---
 
-## 🚀 Featured Projects
+<br>
 
-| Project | Description | Tech |
-|----------|-------------|------|
-| 🚗 **ParkSync** | Smart Parking Management System with Vehicle Detection & Billing | React, Flask, PostgreSQL, OpenCV |
-| 🫁 **Clario** | AI Powered Lung Disease Detection using Chest X-Ray Images | React, Flask, Python |
-| 🤖 **FlowML** | Visual Machine Learning Pipeline Builder | React, Python |
+### `02` &nbsp; STACK
 
-> ⭐ Pin these repositories on your GitHub profile for better visibility.
+<br>
 
----
+**Languages**
+<br>
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=A78BFA)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=A78BFA)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=A78BFA)
+![C++](https://img.shields.io/badge/-C++-000000?style=flat-square&logo=cplusplus&logoColor=A78BFA)
+![C](https://img.shields.io/badge/-C-000000?style=flat-square&logo=c&logoColor=A78BFA)
 
-## 📊 GitHub Statistics
+**Frontend**
+<br>
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=A78BFA)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000000?style=flat-square&logo=tailwindcss&logoColor=A78BFA)
+![Vite](https://img.shields.io/badge/-Vite-000000?style=flat-square&logo=vite&logoColor=A78BFA)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat-square&logo=html5&logoColor=A78BFA)
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=VishwajeetChandole&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetChandole&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+**Backend**
+<br>
+![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=A78BFA)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=A78BFA)
+![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express&logoColor=A78BFA)
 
-<p align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetChandole&theme=tokyonight&hide_border=true" />
-</p>
+**Database**
+<br>
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=A78BFA)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat-square&logo=mongodb&logoColor=A78BFA)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=A78BFA)
 
----
+**Tools**
+<br>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=A78BFA)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=A78BFA)
+![Postman](https://img.shields.io/badge/-Postman-000000?style=flat-square&logo=postman&logoColor=A78BFA)
+![VS Code](https://img.shields.io/badge/-VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=A78BFA)
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishwajeetChandole&theme=tokyo-night&hide_border=true" />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=VishwajeetChandole&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
-
-## 📋 Profile Summary
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=VishwajeetChandole&theme=tokyonight" />
-</p>
+<br>
 
 ---
 
-## 🌐 Connect With Me
+<br>
 
-<p align="center">
-  <a href="https://github.com/VishwajeetChandole">
-    <img src="https://skillicons.dev/icons?i=github" height="45" />
-  </a>
-  &nbsp;
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" />
-  </a>
-  &nbsp;
-  <a href="mailto:YOUR_EMAIL@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="45" />
-  </a>
-</p>
+### `03` &nbsp; PROJECTS
+
+<br>
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+**ParkSync**
+<br><sub>Smart parking management with vehicle detection & automated billing</sub>
+<br><br>
+`React` `Flask` `PostgreSQL` `OpenCV`
+
+</td>
+<td width="33%" valign="top">
+
+**Clario**
+<br><sub>AI-powered lung disease detection from chest X-ray images</sub>
+<br><br>
+`React` `Flask` `Python`
+
+</td>
+<td width="33%" valign="top">
+
+**FlowML**
+<br><sub>Visual pipeline builder for building ML workflows</sub>
+<br><br>
+`React` `Python`
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ---
 
-<p align="center">
-⭐ Thanks for visiting my profile! If you like my work, consider starring my repositories.
-</p>
+<br>
+
+### `04` &nbsp; GITHUB
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=VishwajeetChandole&show_icons=true&hide_border=true&bg_color=00000000&title_color=A78BFA&icon_color=A78BFA&text_color=E6E6E6&hide_rank=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetChandole&layout=compact&hide_border=true&bg_color=00000000&title_color=A78BFA&text_color=E6E6E6&langs_count=8" width="48%" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetChandole&hide_border=true&background=00000000&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=6B6B6B" width="70%" />
+
+<br>
+<br>
+
+---
+
+<br>
+
+<sub>Thanks for stopping by.</sub>
+
+<br>
+
+</div>
