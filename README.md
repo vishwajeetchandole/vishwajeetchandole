@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1025&height=220&section=header&text=VISHWAJEET%20CHANDOLE&fontSize=42&fontColor=A78BFA&fontAlignY=45&desc=Backend%20%26%20AI%20Developer%20%C2%B7%20Python%20%C2%B7%20PostgreSQL&descAlignY=62&descColor=E6E6E6&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/vishwajeetchandole/vishwajeetchandole/main/assets/banner.svg" alt="Vishwajeet Chandole, Backend and AI Developer"/>
 
 <br>
 
@@ -45,6 +45,8 @@ const vishwajeet = {
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/TypeScript-0D0D0D?style=flat-square&logo=typescript&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Kotlin-0D0D0D?style=flat-square&logo=kotlin&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=A78BFA"/>
 
 **Backend & APIs** &nbsp;
@@ -142,5 +144,3 @@ Looking for a backend internship, and happy to talk about APIs, databases, or AI
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vishwajeetchandole)
 [![Gmail](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:chandolevishwajeet@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://vishwajeetchandole.vercel.app/)
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,100:0D0D0D&height=120&section=footer"/>
