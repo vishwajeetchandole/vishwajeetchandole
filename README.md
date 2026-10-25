@@ -1,219 +1,130 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1025&height=220&section=header&text=VISHWAJEET%20CHANDOLE&fontSize=42&fontColor=A78BFA&fontAlignY=45&desc=Full%20Stack%20Developer%20%C2%B7%20AI%20%2F%20ML%20Enthusiast&descAlignY=62&descColor=E6E6E6&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:1A1025&height=220&section=header&text=VISHWAJEET%20CHANDOLE&fontSize=42&fontColor=A78BFA&fontAlignY=45&desc=Backend%20%26%20AI%20Developer%20%C2%B7%20Python%20%C2%B7%20PostgreSQL&descAlignY=62&descColor=E6E6E6&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+real-world+software;React+%2B+Flask+%2B+Python;Shipping+AI-powered+products;Always+learning+something+new" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Building+backend+systems+and+REST+APIs;Python+%2B+Flask+%2B+FastAPI+%2B+PostgreSQL;Integrating+LLM+APIs+into+real+products;Ship+it%2C+then+make+it+better" alt="Typing SVG"/>
 
 <br><br>
 
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VishwajeetChandole)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:YOUR_EMAIL@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://your-portfolio-link.com)
-
-<br>
-
-<img src="https://img.shields.io/github/followers/VishwajeetChandole?logo=github&style=flat-square&color=A78BFA&labelColor=0D0D0D" />&nbsp;
-<img src="https://komarev.com/ghpvc/?username=VishwajeetChandole&style=flat-square&color=A78BFA&label=PROFILE+VIEWS&labelColor=0D0D0D" />
+[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/vishwajeetchandole)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vishwajeetchandole)
+[![Gmail](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:chandolevishwajeet@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D0D0D?style=for-the-badge&logo=vercel&logoColor=A78BFA)](https://vishwajeetchandole.vercel.app/)
 
 </div>
 
 <br>
 
-<img width="100%" src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
+## 👋 About Me
 
-<br>
+I'm a third-year **B.Tech CSE (AI & ML)** student at KIT's College of Engineering, Kolhapur. I like building the part of a product that users never see but depend on: APIs, database design, and making sure data stays correct.
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> &nbsp;About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-<br>
-
-I'm a **B.Tech Computer Science** student specializing in **AI & Machine Learning**,
-who genuinely enjoys the process of turning an idea into something people can actually use.
-
-I care about the full journey of a product — from a working backend and a clean database schema,
-to a frontend that doesn't feel like an afterthought. Lately I've been pulling AI deeper into
-that pipeline: smarter defaults, automated insights, systems that assist rather than replace.
+Most of my projects are backend-heavy and use AI where it actually helps, for example OCR for number plates and LLM APIs for document Q&A.
 
 ```txt
 const vishwajeet = {
-    role: "Full Stack Developer & AI/ML Enthusiast",
-    education: "B.Tech CSE (AI & ML)",
-    stack: ["React", "Flask", "Python", "PostgreSQL"],
-    currentFocus: "AI-assisted full stack products",
-    philosophy: "Ship it, then make it smarter."
+    role: "Backend & AI Developer",
+    education: "B.Tech CSE (AI & ML), KIT Kolhapur",
+    stack: ["Python", "Flask", "FastAPI", "PostgreSQL", "React"],
+    focus: "REST APIs, database design, LLM API integration",
+    lookingFor: "Backend internship"
 };
 ```
 
-</td>
-<td width="40%" valign="top">
+📍 Kolhapur, India &nbsp;|&nbsp; 🎯 Open to backend internships &nbsp;|&nbsp; 🤝 Always up for feedback on my code
 
 <br>
 
-**Quick facts**
+## 🛠️ Tech Stack
 
-🎓&nbsp; B.Tech CSE — AI & ML
-🛠️&nbsp; Full Stack Development
-🤖&nbsp; Applied Artificial Intelligence
-🌱&nbsp; Sharpening core CS fundamentals
-🤝&nbsp; Open to open-source collaboration
-📍&nbsp; Building in public, one repo at a time
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="30"> &nbsp;Tech Stack
-
-<br>
-
-<table width="100%">
-<tr><td>
-
-**Languages**
-<br><br>
-<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
+**Languages** &nbsp;
 <img src="https://img.shields.io/badge/Python-0D0D0D?style=flat-square&logo=python&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Java-0D0D0D?style=flat-square&logo=openjdk&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/JavaScript-0D0D0D?style=flat-square&logo=javascript&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/C++-0D0D0D?style=flat-square&logo=cplusplus&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/C-0D0D0D?style=flat-square&logo=c&logoColor=A78BFA"/>
 
-</td></tr>
-<tr><td>
-
-**Frontend**
-<br><br>
-<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Vite-0D0D0D?style=flat-square&logo=vite&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/HTML5-0D0D0D?style=flat-square&logo=html5&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/CSS3-0D0D0D?style=flat-square&logo=css3&logoColor=A78BFA"/>
-
-</td></tr>
-<tr><td>
-
-**Backend**
-<br><br>
+**Backend & APIs** &nbsp;
 <img src="https://img.shields.io/badge/Flask-0D0D0D?style=flat-square&logo=flask&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Node.js-0D0D0D?style=flat-square&logo=node.js&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Express-0D0D0D?style=flat-square&logo=express&logoColor=A78BFA"/>
-
-</td></tr>
-<tr><td>
-
-**Database**
-<br><br>
-<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/MongoDB-0D0D0D?style=flat-square&logo=mongodb&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=A78BFA"/>
-
-</td></tr>
-<tr><td>
-
-**Tools & Platforms**
-<br><br>
-<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=A78BFA"/>
-<img src="https://img.shields.io/badge/Figma-0D0D0D?style=flat-square&logo=figma&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/FastAPI-0D0D0D?style=flat-square&logo=fastapi&logoColor=A78BFA"/>
 <img src="https://img.shields.io/badge/Postman-0D0D0D?style=flat-square&logo=postman&logoColor=A78BFA"/>
 
-</td></tr>
-</table>
+**Databases** &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-0D0D0D?style=flat-square&logo=postgresql&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/MySQL-0D0D0D?style=flat-square&logo=mysql&logoColor=A78BFA"/>
+
+**AI / ML** &nbsp;
+<img src="https://img.shields.io/badge/Gemini_API-0D0D0D?style=flat-square&logo=googlegemini&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-0D0D0D?style=flat-square&logo=scikitlearn&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/OpenCV-0D0D0D?style=flat-square&logo=opencv&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Pandas-0D0D0D?style=flat-square&logo=pandas&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/NumPy-0D0D0D?style=flat-square&logo=numpy&logoColor=A78BFA"/>
+
+**Frontend** &nbsp;
+<img src="https://img.shields.io/badge/React-0D0D0D?style=flat-square&logo=react&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Tailwind_CSS-0D0D0D?style=flat-square&logo=tailwindcss&logoColor=A78BFA"/>
+
+**Tools** &nbsp;
+<img src="https://img.shields.io/badge/Git-0D0D0D?style=flat-square&logo=git&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/GitHub-0D0D0D?style=flat-square&logo=github&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/Linux-0D0D0D?style=flat-square&logo=linux&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/VS_Code-0D0D0D?style=flat-square&logo=visualstudiocode&logoColor=A78BFA"/>
 
 <br>
 
-## <img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30"> &nbsp;Featured Projects
+## 🚀 Featured Projects
+
+### 🚗 [ParkSync: Smart Parking Management System](https://github.com/vishwajeetchandole/ParkSync-Intelligent-Parking-System)
+Full-stack parking system with automatic number plate recognition, slot allocation, fee calculation, PDF invoices and UPI QR payments.
+- PostgreSQL schema with transactional writes and `INSERT ... RETURNING`
+- Multi-stage OCR pipeline (CLAHE, adaptive thresholding, denoising, multi-mode Tesseract) tuned for Indian plates
+
+`Flask` `PostgreSQL` `React` `OpenCV` `Tesseract`
+
+### 📄 [QuPDF: Chat with any PDF](https://github.com/vishwajeetchandole/QuPDF-AI-Powered-PDF-Chat-Tool)
+Upload a PDF, read it in the browser, and get summaries, suggested questions and answers from the document.
+- Flask backend extracts PDF text and calls the Google Gemini API
+- PDF.js viewer with search, highlight and zoom
+
+`Python` `Flask` `Gemini API` `PDF.js`
+
+### 🤖 [FlowML: Visual AutoML Pipeline Builder](https://github.com/vishwajeetchandole/flowml-studio)
+Drag-and-drop builder for machine learning workflows. No notebooks, just nodes and connections.
+- FastAPI endpoints run preprocessing, training and evaluation from the visual pipeline
+
+`FastAPI` `Scikit-Learn` `React`
 
 <br>
 
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-<h3>🚗&nbsp; ParkSync</h3>
+## 🏆 Highlights
 
-Smart parking management system with real-time **vehicle detection** and automated billing —
-built to replace manual entry logs with a system that actually watches the lot.
-
-`React` `Flask` `PostgreSQL` `OpenCV`
-
-</td>
-<td width="50%" valign="top">
-<h3>🫁&nbsp; Clario</h3>
-
-AI-powered diagnostic tool that detects lung disease from **chest X-ray images**,
-turning a trained model into something a clinician could realistically use.
-
-`React` `Flask` `Python` `TensorFlow`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>🤖&nbsp; FlowML</h3>
-
-A visual, drag-and-drop pipeline builder for machine learning workflows —
-no notebooks, no boilerplate, just nodes and connections.
-
-`React` `Python`
-
-</td>
-<td width="50%" valign="top">
-
-<sub>⭐ Pin these on your GitHub profile (max 6) for maximum visibility — they're the first thing recruiters see.</sub>
-
-</td>
-</tr>
-</table>
+- Published the **Indian Engineering Placement Dataset** on Kaggle (15,000 synthetic records, 25 features)
+- Presented a project at **TechVortex 3.0**, an international project competition at Symbiosis University, Pune
+- Helped organize a state-level technical event with **700+ participants**
+- Diploma in Computer Engineering (**92.06%**)
 
 <br>
 
-## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="30"> &nbsp;GitHub Analytics
+## 🔧 Currently
+
+- Building **FlowML** features
+- Building an autonomous maze-solving line-follower bot (ESP32) for Techfest IIT Bombay's *Meshmerize*
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=VishwajeetChandole&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=A78BFA&text_color=E6E6E6&border_radius=10" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishwajeetChandole&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E6E6E6&langs_count=8&border_radius=10" width="49%"/>
+## 📊 GitHub Stats
 
-<br><br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishwajeetChandole&hide_border=true&background=0D0D0D&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=6B6B6B&border_radius=10" width="70%"/>
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=VishwajeetChandole&bg_color=0D0D0D&color=E6E6E6&line=A78BFA&point=FFFFFF&area=true&area_color=A78BFA&hide_border=true&border_radius=10" width="90%"/>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=VishwajeetChandole&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=8" width="90%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vishwajeetchandole&show_icons=true&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&icon_color=A78BFA&text_color=E6E6E6&border_radius=10" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishwajeetchandole&layout=compact&hide_border=true&bg_color=0D0D0D&title_color=A78BFA&text_color=E6E6E6&langs_count=6&border_radius=10" width="49%"/>
 
 <br>
 
-## <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30"> &nbsp;Let's Connect
+## 📬 Let's Connect
 
-<br>
+Looking for a backend internship, and happy to talk about APIs, databases, or AI-powered products. Email is the fastest way to reach me.
 
-I'm always up for talking about full stack builds, AI/ML experiments, or a good open-source
-issue to dig into. Reach out — I reply.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/vishwajeetchandole)
+[![Gmail](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:chandolevishwajeet@gmail.com)
 
-<br>
-
-[![GitHub](https://img.shields.io/badge/GitHub-0D0D0D?style=for-the-badge&logo=github&logoColor=A78BFA)](https://github.com/VishwajeetChandole)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=A78BFA)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-0D0D0D?style=for-the-badge&logo=gmail&logoColor=A78BFA)](mailto:YOUR_EMAIL@gmail.com)
-
-<br>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,100:0D0D0D&height=150&section=footer"/>
-
-<sub>⭐ &nbsp;If any of this was useful, a star on my repos goes a long way.</sub>
-
-</div>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1025,100:0D0D0D&height=120&section=footer"/>
