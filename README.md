@@ -102,7 +102,26 @@ Drag-and-drop builder for machine learning workflows. No notebooks, just nodes a
 ## 📚 All Repositories
 
 <!--REPOS:START-->
-*The repository list updates automatically.*
+*16 public repositories, updated automatically.*
+
+| Repository | Description | Language | ⭐ | Last push |
+|---|---|---|---|---|
+| [Optiqo](https://github.com/vishwajeetchandole/Optiqo) | — | Python | 0 | 2026-10-25 |
+| [vyrox-portfolio](https://github.com/vishwajeetchandole/vyrox-portfolio) | Official portfolio website of VYROX, showcasing our team, technical expertise, innovative projects, achievements, and collaborative journey for Triwizathon 2026 at Sanjay Ghodawat University. | JavaScript | 0 | 2026-10-14 |
+| [flowml-studio](https://github.com/vishwajeetchandole/flowml-studio) | FlowML Studio is an AI-powered visual machine learning workflow builder that simplifies data science by enabling drag-and-drop pipeline creation, automated model training, and real-time analytics. | JavaScript | 0 | 2026-10-12 |
+| [SpendWise](https://github.com/vishwajeetchandole/SpendWise) | Private, offline expense tracker for Android built with Kotlin & Jetpack Compose. Log daily expenses, view them month by month, and export printable PDF/CSV reports. Secured with PIN and fingerprint lock, with daily reminders and smart suggestions. No account on a server, no internet needed. | Kotlin | 0 | 2026-10-11 |
+| [relay-chat-handoff](https://github.com/vishwajeetchandole/relay-chat-handoff) | Relay is a Chrome extension that carries your AI chat progress across accounts, chats, and platforms. Hit a limit or switching from Claude to ChatGPT or Gemini? Capture the conversation, save a compact handoff, and continue in a fresh chat in one click. Includes auto-checkpoints, a searchable library, and export. All data stays in your browser. | JavaScript | 1 | 2026-10-03 |
+| [markly-bookmark-manager](https://github.com/vishwajeetchandole/markly-bookmark-manager) | Markly - your personal bookmark manager. Save it. Organize it. Find it. Built with React, TypeScript, and Tailwind CSS - no backend, no sign-up, everything stored locally in your browser. | TypeScript | 0 | 2026-08-31 |
+| [vishwajeet-portfolio](https://github.com/vishwajeetchandole/vishwajeet-portfolio) | A personal portfolio website showcasing my educational journey, technical skills, projects, achievements, certifications, and experience in Artificial Intelligence, Machine Learning, and Full Stack Development. It highlights my development journey, innovative projects, problem-solving approach, and the technologies I work with. | JavaScript | 0 | 2026-08-02 |
+| [LifeLogs](https://github.com/vishwajeetchandole/LifeLogs) | A modern digital journaling and milestone tracking platform that helps users capture, organize, visualize, and revisit important moments through interactive timelines, analytics, calendars, and personalized insights. | JavaScript | 0 | 2026-07-24 |
+| [indian-engineering-placement-dataset](https://github.com/vishwajeetchandole/indian-engineering-placement-dataset) | — | — | 0 | 2026-07-17 |
+| [ParkSync-Intelligent-Parking-System](https://github.com/vishwajeetchandole/ParkSync-Intelligent-Parking-System) | A full-stack parking management system with real-time slot tracking, OCR-based vehicle entry, and a modern dashboard built using React, Flask, and PostgreSQL. | JavaScript | 0 | 2026-05-14 |
+| [pointify-auto-search](https://github.com/vishwajeetchandole/pointify-auto-search) | Pointify is a modern search tracking app with auto and manual search functionality. It tracks completed searches, goals, and earned points with real-time updates. Searches are automatically marked as completed, and progress updates dynamically. Built with React, Vite, and Tailwind CSS, it features a clean and interactive UI. | JavaScript | 0 | 2026-04-18 |
+| [vibethon-TeamDevVortex-T140](https://github.com/vishwajeetchandole/vibethon-TeamDevVortex-T140) | — | JavaScript | 0 | 2026-04-15 |
+| [SiteScopeAI-AI-Powered-Website-Intelligence-Platform](https://github.com/vishwajeetchandole/SiteScopeAI-AI-Powered-Website-Intelligence-Platform) | SiteScopeAI is an AI-powered website analysis platform that scans any URL and delivers deep insights into performance, SEO, security, accessibility, and technology stack. It transforms complex website data into clear, actionable insights with a modern, developer-friendly interface. | JavaScript | 0 | 2026-03-17 |
+| [Learning-React-Daywise](https://github.com/vishwajeetchandole/Learning-React-Daywise) | — | JavaScript | 0 | 2026-01-28 |
+| [Clario-AI-Powered-Lung-Disease-Detection](https://github.com/vishwajeetchandole/Clario-AI-Powered-Lung-Disease-Detection) | AI-powered tool for early lung disease detection using deep learning and medical imaging. Built with Flask, modern UI, and integrated AI models. | CSS | 0 | 2025-10-09 |
+| [QuPDF-AI-Powered-PDF-Chat-Tool](https://github.com/vishwajeetchandole/QuPDF-AI-Powered-PDF-Chat-Tool) | QuPDF is an AI-powered tool that lets you chat with any PDF - summarize, ask questions, and explore documents effortlessly. | JavaScript | 0 | 2025-06-18 |
 <!--REPOS:END-->
 
 <br>
