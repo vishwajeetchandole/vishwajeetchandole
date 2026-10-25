@@ -2,8 +2,8 @@ name: Update repo list
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # every 6 hours
-  workflow_dispatch:         # lets you run it manually
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
   push:
     branches: [main]
     paths:
@@ -25,7 +25,6 @@ jobs:
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          # EXCLUDE_REPOS: "repo-one,repo-two"
         run: python .github/scripts/update_readme.py
 
       - name: Commit changes
